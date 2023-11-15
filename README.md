@@ -8,8 +8,13 @@
 
 
 ##  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/antoni_pereyra17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-pereyra) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/antoni_pereyra17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-pereyra)
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=antoniopereyra"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniopereyra)](https://github.com/antoniopereyra/github-readme-stats)
+
+
+
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=antoniopereyra&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"/>
+
+<img alt="my langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniopereyra&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"/>
+
 
